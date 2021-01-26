@@ -1,0 +1,118 @@
+{
+  "main": {
+    "name":"Felipe Costa",
+    "occupation":"Software Engineer",
+    "description":"I am a Software Developer and experienced Systems analyst.",
+    "image":"profilepic.jpg",
+    "bio":"Passionate about learning new technologies that help create solutions that add up to human development. I enjoy learning and adapting to new social and business cultures. My values are trust, cordiality and respect in all kinds of relationships, because I believe these are the foundations for success in creating a great society. I also consider myself a person not conforming to the comfort zone. I always strive for new opportunities to broaden my knowledge, finding improvements for solutions to problems, with the intention of achieving the result with quality.",
+    "contactmessage":"Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me. ",
+    "email": "felipejsilvacosta@gmail.com",
+    "phone": "+61 0404-412-631",
+    "address":{
+      "street":"",
+      "city":"Melbourne",
+      "state":"Victoria",
+      "zip": ""
+    },
+    "website": "XXXXXXXX",
+    "resumedownload":"https://drive.google.com/uc?export=download&id=1Jwwq2WWVJyE1_prQMCdr3hwt1Q6LyG6C",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/felipe.costa.7146/",
+        "className":"fa fa-facebook"
+      },
+  
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/felipe-costa-805bb7119/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/feehcost/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/FelipeCostaBR",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"General Assembly",
+        "degree":"Full Stack Software Engineer",
+        "graduated":"December 2020",
+        "description":"Full-time, 480-hour Software Engineering Immersive program covering HTML, CSS, JavaScript, ReactJS, Node, Postgre, Express, Ruby and Sinatra. Completed coursework and projects using full-stack development, front-end frameworks, and APIs."
+      },
+      {
+        "school":"Ability English School",
+        "degree":"English for Academic Purposes",
+        "graduated":"February 2019",
+        "description":"Full-time, focus on learn  the English challenges you may experience in a college or university. I was trained thoroughly in English communication and essay writing of various types including descriptive, argument, comparison and research."
+      },
+      {
+        "school":"UNIP -Paulista University",
+        "degree":"Bachelor degree of Analysis and Systems Development",
+        "graduated":"December 2015",
+        "description":"I learned how to design, document, specify, implement, test, deploy and maintain computer information systems. For that, I used modern computational tools, as well as advanced methods and techniques for projects applied throughout the system development cycle."
+      }
+    ],
+    "work":[
+      {
+        "company":"General Assembly",
+        "title":"Full Stack Software Engineer",
+        "years":"September 2020 - December 2020",
+        "description":"At General Assembly I mentored students outside of the classroom with projects and homework, towards the end of the course I achieved a high distinction as a result of my dedication and the quality of the work I was able to showcase within tight time constraints. Within the immersive full stack software engineering course I worked on projects using technologies such as Javascript, React, Node.js, Express, Sinatra, Ruby, PostgreSQL, HTML and CSS."
+      },
+      {
+        "company":"BrazilPrev Superannuation & Retirement fund",
+        "title":"System Analyst",
+        "years":"May 2013 - July 2017",
+        "description":"Recognised for my quick thinking and problem solving ability, I became the first point of contact for Incidents and Requests with no solution base. Designing and delivering solutions and clearly documenting the compliance of the solution adopted became my key skill, and I was able to improve efficiency and compliance across the team and business."
+      },
+      {
+        "company":"Trust IT Project and Services",
+        "title":"Junior Test Analyst",
+        "years":"January 2011 - February 2013",
+        "description":"I was responsible for checking the functionality of the Audible Response Unit through daily monitoring, doing a database search (SQL) and problem analysis to send to the responsible area (IT, networks or business) and preparing management reports."
+      }
+    ]
+
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Hurry Money",
+        "category":"FinTech app that allows people to borrow money from people that want to invest money. platform made with Ruby and Sinatra",
+        "image":"Hurry_money.jpg",
+        "url":"https://morning-citadel-47407.herokuapp.com/",
+        "techs": ["RUBY","POSTGRESQL","CSS3"]
+      },
+      {
+        "title":"SmartBrain",
+        "category":"Web application for detecting your face in an image using React.js, Node.js, Express.js, Postgresql, CSS",
+        "image":"SmartBrain.jpg",
+        "url":"https://felipe-smart-brain.herokuapp.com/",
+        "techs": ["REACTJS","POSTGRESQL","NODEJS","CSS3" ]
+      },
+      {
+        "title":"Find a Table",
+        "category":"Find a Table is a web app using JavaScript, CSS, Express and Google Maps API with a finder and booking feature that specializes in looking for the best burger places in town!",
+        "image":"findatable.jpg",
+        "url":"https://findatableapp.herokuapp.com/",
+        "techs": ["JAVASCRIPT","CSS3","NODEJS" ]
+      },
+      {
+        "title":"Proffy",
+        "category":"Online teaching platform made with React.js and React Native using Typescript",
+        "image":"proffy.jpg",
+        "url":"https://github.com/FelipeCostaBR/proffy",
+        "techs": ["TYPESCRIPT","NODEJS","REACTJS","POSTGRESQL"]
+      }      
+    ]
+  }
+}
